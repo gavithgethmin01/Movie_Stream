@@ -28,7 +28,7 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/FlaskCinema.git
+[git clone https://github.com/yourusername/FlaskCinema.git](https://github.com/gavithgethmin01/Movie_Stream.git)
 cd FlaskCinema
 Install dependencies
 bash
